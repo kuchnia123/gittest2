@@ -9,7 +9,7 @@ from PyQt5.QtWidgets import QPushButton, QHBoxLayout
 from PyQt5.QtWidgets import QMessageBox
 from PyQt5.QtCore import Qt
 
-
+#kalkulator
 class Kalkulator(QWidget):
     def __init__(self, parent=None):
         super(Kalkulator, self).__init__(parent)
